@@ -1,4 +1,4 @@
-###Yakınınızda bulunan mekanları görüntüleyebilir, yorumlarda bulunabilirsiniz
+Yakınınızda bulunan mekanları görüntüleyebilir, yorumlarda bulunabilirsiniz
 
 
 
